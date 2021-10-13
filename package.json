@@ -1,0 +1,23 @@
+{
+  "name": "gds",
+  "version": "0.1.5",
+  "description": "Decentralized Travel Booking Engine (Autonomous GDS Spider aka Booking Bot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GDS",
+    "Airline Flights Inc.",
+    "Global Distribution System",
+    "Travel Booking Engine"
+  ],
+  "author": "AirlineFlights <support@AirlineFlights.club>",
+  "license": "MIT",
+  "dependencies": {
+    "@duffel/api": "^1.3.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
